@@ -33,15 +33,15 @@ This project was generated with [Laravel Framework](https://laravel.com/) versio
 5. Navigate to `localhost:8000` in browser to see the project.
 
 
+
+## Team Names
+
+- [Assem Mohamed Ahmed Samy](https://github.com/Assemmohamed0)
+- [Ahmed Salah Mohammed](https://github.com/Ahmedsalahmohammed22)
+
 ## Dependencies
 
 * Laravel `Laravel framework ^8.75`
 * PHP `PHP ^7.3|^8.0`
 * Bootstrap `Bootstrap 5`
 * FontAwesome `FontAwesome 6.1.1`
-
-
-## Team Names
-
-- [Assem Mohamed Ahmed Samy](https://github.com/Assemmohamed0)
-- [Ahmed Salah Mohammed](https://github.com/Ahmedsalahmohammed22)
